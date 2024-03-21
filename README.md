@@ -13,7 +13,7 @@ You can find the code for this project [here](https://github.com/ayoakin/LinearR
 
 File overview:
 
-* LinearRegressionScratch.ipynb - the full code from this project
+* `LinearRegressionScratch.ipynb` - the full code from this project
 
 
 ## Environment Setup
@@ -33,4 +33,4 @@ The data used for this implementation is the salary data originally on [Kaggle](
 
 You can download the file we'll use in this project here:
 
-[Salary_Data.csv](https://github.com/ayoakin/LinearRegression/blob/main/Salary_Data.csv) - the salary  data that we use in this project.
+* [Salary_Data.csv](https://github.com/ayoakin/LinearRegression/blob/main/Salary_Data.csv) - the salary  data that we use in this project.
