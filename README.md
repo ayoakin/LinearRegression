@@ -9,11 +9,11 @@ Recreating the linear regression algorithm gives the benefit of
 * model customization
 
 ### Code
-You can find the code for this project here.
+You can find the code for this project [here](https://github.com/ayoakin/LinearRegression/blob/main/LinearRegressionScratch.ipynb).
 
 File overview:
 
-regression.ipynb - the full code from this project
+* LinearRegressionScratch.ipynb - the full code from this project
 
 
 ## Environment Setup
@@ -29,8 +29,8 @@ To follow this project, please install the following locally:
 
 ### Data
 
-The data used for this implementation is the salary data originally on Kaggle.
+The data used for this implementation is the salary data originally on [Kaggle](https://www.kaggle.com/datasets/karthickveerakumar/salary-data-simple-linear-regression/data).
 
 You can download the file we'll use in this project here:
 
-Salary_Data.csv - the salary  data that we use in this project.
+[Salary_Data.csv](https://github.com/ayoakin/LinearRegression/blob/main/Salary_Data.csv) - the salary  data that we use in this project.
