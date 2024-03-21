@@ -1,4 +1,5 @@
-# Project Overview
+# Linear Regression From Scratch Using Matrices
+## Project Overview
 This project recreates a linear regression algorithm from scratch using two python libraries - pandas and numpy for matrix operations. It then compares it to the linear regression implementation from scikit-learn. The dataset used is a two column salary dataset with 30 rows. The independent variable "YearsExperience" details the number of years of job experience. The dependent variable "Salary" details the salary earned.
 
 Recreating the linear regression algorithm gives the benefit of
@@ -7,7 +8,7 @@ Recreating the linear regression algorithm gives the benefit of
 * understanding why and if a prediction for a dataset is best using linear regression
 * model customization
 
-## Code
+### Code
 You can find the code for this project here.
 
 File overview:
@@ -15,9 +16,9 @@ File overview:
 regression.ipynb - the full code from this project
 
 
-# Environment Setup
+## Environment Setup
 
-## Installation
+### Installation
 To follow this project, please install the following locally:
 
 * Python 3.8+
@@ -26,7 +27,7 @@ To follow this project, please install the following locally:
   * numpy
   * scikit-learn
 
-## Data
+### Data
 
 The data used for this implementation is the salary data originally on Kaggle.
 
