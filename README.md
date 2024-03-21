@@ -8,6 +8,8 @@ Recreating the linear regression algorithm gives the benefit of
 * understanding why and if a prediction for a dataset is best using linear regression
 * model customization
 
+For a detailed explanation on the theory used for this computation, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/linear-regression-from-scratch-using-matrices-991df6e28f62)
+
 ### Code
 You can find the code for this project [here](https://github.com/ayoakin/LinearRegression/blob/main/LinearRegressionScratch.ipynb).
 
